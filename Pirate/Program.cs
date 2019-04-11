@@ -27,11 +27,18 @@ namespace Pirate
                     Console.WriteLine("AAARR I got two adventures on my horizon. Would you like to search for buried treasure?");
                     Console.WriteLine("Or would yee rather go whale hunting?");
                     Console.WriteLine("Enter 1 for buried treasure. Enter 2 for whale hunting.");
-                    int () = x;
-                    if (x = 1)
+
+                    int[] = x;
+
+                        if (x = 1)
                     {
                         Console.WriteLine("TREASURE HUNTING!");
                     }
+                    
+                   
+
+                      
+                    
                 }
             }
 
