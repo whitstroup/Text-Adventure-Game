@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{3552CFCC-0C19-4E4C-A667-DDCE22F4D938}|Default">
-  <MonoDevelop.Ide.ItemProperties.Pirate FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Pirate PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="9" Column="47" />
+      <File FileName="Program.cs" Line="17" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,9 +13,6 @@
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
