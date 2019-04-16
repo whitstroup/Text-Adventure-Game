@@ -155,7 +155,7 @@ namespace Pirate
 
                 Console.WriteLine("Yee got 4 measly choices so listen carefully! Choose yer letter!");
 
-                answerfour = GetUserResponse("What be your favorite kind of treasure? is it A.GOLD!!!? B.Whatever calls to you? C.Finding happiness and joy? or D.All the Above?");
+                answerfive = GetUserResponse("What be your favorite kind of treasure? is it A.GOLD!!!? B.Whatever calls to you? C.Finding happiness and joy? or D.All the Above?");
                 Console.Clear();
                 if (answerfive == "A")
                 {
@@ -164,11 +164,11 @@ namespace Pirate
 
                 else if (answerfive == "B")
                 {
-                    Console.WriteLine("True but not the answer I was looking for!"););
+                    Console.WriteLine("True but not the answer I was looking for!");
                 }
                 else if (answerfive == "C")
                 {
-                    Console.WriteLine("True but not the answer I was looking for!"););
+                    Console.WriteLine("True but not the answer I was looking for!");
                 }
 
                 else if (answerfive == "D")
