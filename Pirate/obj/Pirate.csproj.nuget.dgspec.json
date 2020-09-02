@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/whitstroup/repos/Text-Adventure-Game/Pirate/Pirate.csproj": {}
+  },
+  "projects": {
+    "/Users/whitstroup/repos/Text-Adventure-Game/Pirate/Pirate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/whitstroup/repos/Text-Adventure-Game/Pirate/Pirate.csproj",
+        "projectName": "Pirate",
+        "projectPath": "/Users/whitstroup/repos/Text-Adventure-Game/Pirate/Pirate.csproj",
+        "packagesPath": "/Users/whitstroup/.nuget/packages/",
+        "outputPath": "/Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/whitstroup/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
