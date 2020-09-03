@@ -9,7 +9,8 @@ namespace Pirate
         {
             health = 5;
         }
-
+        public string name;
+        public string Name { get; set; }
         public void runPirateGame()
         {
             MainMenu();
@@ -47,6 +48,7 @@ namespace Pirate
 
                 {
                     Console.WriteLine("PEERFECT LET'S BEGIN!!");
+                        break;
                 }
             }
             while (health > 0);
@@ -66,10 +68,12 @@ namespace Pirate
                 {
 
                     Console.WriteLine("Ya want to stay at home and fiddle yer thumbs?!");
+                        LoseLife();
                 }
                 else if (answertwo == "yes")
                 {
-                    Console.WriteLine("Buried treasure it is!");
+                        Console.WriteLine("Buried treasure it is!");
+                            break;
                 }
 
             } 
@@ -90,22 +94,26 @@ namespace Pirate
                 if (answerthree == "whale hunting")
                 {
                     Console.WriteLine("Excellent choice! Yee are well on your way to be a pirate!");
+                        break;
                 }
                 else if (answerthree == "begin journey")
                 {
                     Console.WriteLine("Try again! We don't want to starve on our journey!");
+                        LoseLife();
                 }
                 else
                 {
                     Console.WriteLine("speak up youngster! Do you not speech pirate??");
+                        LoseLife();
                 }
             }
 
 
-            
 
+                
             while (health > 0)
             {
+
                     Console.WriteLine($"Alrighty then {newpiratename}, I got another test to see if you are truly ready to set sail.");
 
                     string answerfour;
@@ -128,6 +136,7 @@ namespace Pirate
                 else if (answerfour == "C")
                 {
                     Console.WriteLine("THAT'S the SPIRIT!!");
+                        break;
                 }
 
                 else if (answerfour == "D")
@@ -136,15 +145,15 @@ namespace Pirate
                     LoseLife();
                 }
                 else
-                { Console.WriteLine("That didn't sound like pirate speech to me!"); }
+                { Console.WriteLine("That didn't sound like pirate speech to me!"); LoseLife(); }
 
 
             }
 
 
 
-
-            while(health > 0)
+                
+                while (health > 0 )
             {
 
             Console.WriteLine($" AAAAARRR Ya did it congrats {newpiratename}!!");
@@ -179,17 +188,15 @@ namespace Pirate
                 {
                     Console.WriteLine("You are a true treasure lubber!");
 
+                        
                 }
                 else
                 { Console.WriteLine("That didn't sound like pirate speech to me!"); LoseLife(); }
 
 
             }
-            }
-           
 
-               
-            
+
             Console.Clear();
             if (health == 0)
             {
@@ -208,6 +215,11 @@ namespace Pirate
             }
             else
             Console.WriteLine($" {Name} {LastName}, you are a lengendary pirate truly you are. AAAARRRR!!");
+            }
+           
+
+               
+            
         }
     }
 }

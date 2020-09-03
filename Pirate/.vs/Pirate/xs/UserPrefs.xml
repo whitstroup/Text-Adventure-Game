@@ -1,17 +1,19 @@
 ﻿<Properties StartupConfiguration="{3552CFCC-0C19-4E4C-A667-DDCE22F4D938}|Default">
   <MonoDevelop.Ide.ItemProperties.Pirate PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PirateAdventure.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game.cs">
     <Files>
-      <File FileName="Program.cs" Line="19" Column="10" />
-      <File FileName="PirateGame.cs" Line="25" Column="1" />
-      <File FileName="PirateAdventure.cs" Line="169" Column="95" />
+      <File FileName="Program.cs" Line="15" Column="1" />
+      <File FileName="PirateAdventure.cs" />
+      <File FileName="Game.cs" Line="16" Column="23" />
+      <File FileName="Pirate.cs" />
+      <File FileName="Unrelated.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Pirate" expanded="True">
             <Node name="Pirate" expanded="True">
-              <Node name="PirateAdventure.cs" selected="True" />
+              <Node name="Game.cs" selected="True" />
             </Node>
           </Node>
         </State>

@@ -9,20 +9,21 @@ namespace Pirate
         {
         }
         protected int health;
-
+        public string TEST { get; set; }
         protected string Name { get; set; }
         protected string LastName { get; set; }
 
-        protected string GetUserResponse(string question)
+        public static string GetUserResponse(string question)
         {
+            Console.WriteLine(question);
+            string userResponse = Console.ReadLine();
+            while (userResponse == "")
+            {
+                Console.WriteLine("Please enter yee a response.");
                 Console.WriteLine(question);
-                string userResponse = Console.ReadLine();
-                while (userResponse == "")                {
-                    Console.WriteLine("Please enter yee a response.");
-                    Console.WriteLine(question);
-                    userResponse = Console.ReadLine();
-                }
-                return userResponse;
+                userResponse = Console.ReadLine();
+            }
+            return userResponse;
         }
         protected void LoseLife()
         {
