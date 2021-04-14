@@ -1,19 +1,57 @@
 ﻿using System;
 namespace Pirate
 {
-    public class Pirate : PirateAdventure
+    public class Pirate 
     {
         public Pirate()
         {
+            var game = new Game();
+            Console.WriteLine("ARRRR Welcome YEE to my Pirate Adventure!");
+            Console.WriteLine("");
+            Name = game.GetUserResponse("AAR what is your PIRATE name?");
+            Console.Clear();
+            LastName = game.GetUserResponse("And what is yee Pirate last name?");
+            Console.Clear();
+            string FullPirateName = (Name + " " + LastName);
 
+            Console.WriteLine($"Welcome {FullPirateName}, To my pirate adventure!");
         }
-        public string WillItWork { get; set; }
-        public void Hi()
+
+        public string FullPirateName { get; set; }
+        private int Health = 5;
+
+        public string Name { get; set; }
+        
+        public string LastName { get; set; }
+
+        public int score { get; set; }
+
+        public int GetHealth()
         {
-            Name = GetUserResponse("AAR what is your PIRATE name?");
+            return Health;
+        }
 
+        public bool IsAlive()
+        {
+            return Health > 0;
+        }
+
+        public bool GameOver()
+        {
+            return Health == 0;
+        }
+
+        public void ResetHealth()
+        {
+            Health = 5;
         }
 
 
+        public string NewPirateName()
+        {
+            return $"{Name} {LastName}";
+        }
+
+       
     }
 }

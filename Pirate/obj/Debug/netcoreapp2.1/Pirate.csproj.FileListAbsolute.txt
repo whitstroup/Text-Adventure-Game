@@ -9,15 +9,26 @@
 /Users/whitstroup/Desktop/Adventure/TextAdventure-Whit/Pirate/obj/Debug/netcoreapp2.1/Pirate.AssemblyInfo.cs
 /Users/whitstroup/Desktop/Adventure/TextAdventure-Whit/Pirate/obj/Debug/netcoreapp2.1/Pirate.dll
 /Users/whitstroup/Desktop/Adventure/TextAdventure-Whit/Pirate/obj/Debug/netcoreapp2.1/Pirate.pdb
+/Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.AssemblyInfoInputs.cache
+/Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.AssemblyInfo.cs
+/Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.csproj.CoreCompileInputs.cache
 /Users/whitstroup/repos/Text-Adventure-Game/Pirate/bin/Debug/netcoreapp2.1/Pirate.deps.json
 /Users/whitstroup/repos/Text-Adventure-Game/Pirate/bin/Debug/netcoreapp2.1/Pirate.runtimeconfig.json
 /Users/whitstroup/repos/Text-Adventure-Game/Pirate/bin/Debug/netcoreapp2.1/Pirate.runtimeconfig.dev.json
 /Users/whitstroup/repos/Text-Adventure-Game/Pirate/bin/Debug/netcoreapp2.1/Pirate.dll
 /Users/whitstroup/repos/Text-Adventure-Game/Pirate/bin/Debug/netcoreapp2.1/Pirate.pdb
-/Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.csprojAssemblyReference.cache
-/Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.AssemblyInfoInputs.cache
-/Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.AssemblyInfo.cs
-/Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.csproj.CoreCompileInputs.cache
 /Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.dll
 /Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.pdb
 /Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.genruntimeconfig.cache
+/Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.csprojAssemblyReference.cache
+/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/bin/Debug/netcoreapp2.1/Pirate.deps.json
+/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/bin/Debug/netcoreapp2.1/Pirate.runtimeconfig.json
+/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/bin/Debug/netcoreapp2.1/Pirate.runtimeconfig.dev.json
+/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/bin/Debug/netcoreapp2.1/Pirate.dll
+/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/bin/Debug/netcoreapp2.1/Pirate.pdb
+/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.AssemblyInfoInputs.cache
+/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.AssemblyInfo.cs
+/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.csproj.CoreCompileInputs.cache
+/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.dll
+/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.pdb
+/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/obj/Debug/netcoreapp2.1/Pirate.genruntimeconfig.cache

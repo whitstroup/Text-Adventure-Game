@@ -1,25 +1,22 @@
 ﻿<Properties StartupConfiguration="{3552CFCC-0C19-4E4C-A667-DDCE22F4D938}|Default">
   <MonoDevelop.Ide.ItemProperties.Pirate PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Game.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PirateAdventure.cs">
     <Files>
-      <File FileName="Program.cs" Line="15" Column="1" />
-      <File FileName="PirateAdventure.cs" />
-      <File FileName="Game.cs" Line="16" Column="23" />
-      <File FileName="Pirate.cs" />
-      <File FileName="Unrelated.cs" />
+      <File FileName="Program.cs" Line="26" Column="1" />
+      <File FileName="PirateAdventure.cs" Line="34" Column="40" />
+      <File FileName="Game.cs" Line="15" Column="16" />
+      <File FileName="Pirate.cs" Line="17" Column="56" />
+      <File FileName="obj/Debug/netcoreapp2.1/.NETCoreApp,Version=v2.1.AssemblyAttributes.cs" Line="4" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Pirate" expanded="True">
             <Node name="Pirate" expanded="True">
-              <Node name="Game.cs" selected="True" />
+              <Node name="PirateAdventure.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

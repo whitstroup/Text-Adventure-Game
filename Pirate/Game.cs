@@ -8,12 +8,11 @@ namespace Pirate
         public Game()
         {
         }
-        protected int health;
-        public string TEST { get; set; }
-        protected string Name { get; set; }
-        protected string LastName { get; set; }
+       
+        
+       
 
-        public static string GetUserResponse(string question)
+        public  string GetUserResponse(string question)
         {
             Console.WriteLine(question);
             string userResponse = Console.ReadLine();
@@ -25,9 +24,11 @@ namespace Pirate
             }
             return userResponse;
         }
+
+
         protected void LoseLife()
         {
-            health--;
+            
         }
 
         protected void MainMenu()

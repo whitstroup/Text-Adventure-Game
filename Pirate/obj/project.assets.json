@@ -688,17 +688,21 @@
     ]
   },
   "packageFolders": {
-    "/Users/whitstroup/.nuget/packages/": {}
+    "/Users/whitstroup/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/whitstroup/repos/Text-Adventure-Game/Pirate/Pirate.csproj",
+      "projectUniqueName": "/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/Pirate.csproj",
       "projectName": "Pirate",
-      "projectPath": "/Users/whitstroup/repos/Text-Adventure-Game/Pirate/Pirate.csproj",
+      "projectPath": "/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/Pirate.csproj",
       "packagesPath": "/Users/whitstroup/.nuget/packages/",
-      "outputPath": "/Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/",
+      "outputPath": "/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/Users/whitstroup/.config/NuGet/NuGet.Config"
       ],
@@ -710,6 +714,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -721,6 +726,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
@@ -739,7 +745,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

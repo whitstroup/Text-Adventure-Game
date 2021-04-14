@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MsMjNTLuAM3PNfXTboCcm0d3dwB6/VyHdMntVmO5Mja47vL/oY2lYx/28sjl3gv48GNjmesXONxZ/PlxxCpEFQ==",
+  "dgSpecHash": "0/iqqXb8Xg6NmYszfLcaxVC3319ecsD/uLnRBR9jvTCD5FSpq+pFEZvlmR/MPP7cuH6SFLbLHaWrR0deCUe54w==",
   "success": true,
-  "projectFilePath": "/Users/whitstroup/repos/Text-Adventure-Game/Pirate/Pirate.csproj",
+  "projectFilePath": "/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/Pirate.csproj",
   "expectedPackageFiles": [
     "/Users/whitstroup/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
     "/Users/whitstroup/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

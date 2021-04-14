@@ -2,31 +2,33 @@
 
 namespace Pirate
 {
-    class Program
+    public class dog
+    {
+
+    }
+
+    public class Program
     {
 
 
 
         static void Main(string[] args)
         {
-            var pirate = new Pirate();
-            pirate.TEST = "Black Tooth";
-            var game = new Game();
+            //var pirate = new Pirate();
+            
+
+       
+            
+            //var gameInstance = new Game();
+            
+
 
 
             PirateAdventure pirateAdventure = new PirateAdventure();
 
+            pirateAdventure.runPirateGame();
 
-            pirateAdventure.name = "Bob";
-
-            pirateAdventure.Name = "Joe";
-
-            Console.WriteLine(pirateAdventure.name);
-            Console.WriteLine(pirateAdventure.Name);
-
-
-
-
+           
 
 
         }
