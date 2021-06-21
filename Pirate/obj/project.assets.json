@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/Pirate.csproj",
+      "projectUniqueName": "/Users/whitstroup/repos/Text-Adventure-Game/Pirate/Pirate.csproj",
       "projectName": "Pirate",
-      "projectPath": "/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/Pirate.csproj",
+      "projectPath": "/Users/whitstroup/repos/Text-Adventure-Game/Pirate/Pirate.csproj",
       "packagesPath": "/Users/whitstroup/.nuget/packages/",
-      "outputPath": "/Users/whitstroup/repos REAL/Text-Adventure-Game/Pirate/obj/",
+      "outputPath": "/Users/whitstroup/repos/Text-Adventure-Game/Pirate/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -745,7 +745,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }
